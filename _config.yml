@@ -1,0 +1,28 @@
+name: Visionsbloggen
+favicon: null
+layout_spectrum: 0.29432915756478906
+typography_spectrum: 0.5109270408283919
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2199524356983602
+  lightness: 0.10947778820991516
+  saturation: 0.3436548968311399
+  rhythmicContrast: 0.42250703927129507
+purpose: []
