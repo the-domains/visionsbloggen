@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Visionsbloggen]]></title>
         <description><![CDATA[Visionsbloggen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/visionsbloggen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 19:11:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jul 2016 19:18:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/visionsbloggen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Om bloggen</p>]]></description>
-            <link>undefinedom-bloggen/index.html</link>
+            <link>https://thegrid.ai/visionsbloggen/om-bloggen/index.html</link>
             <guid isPermaLink="false">026fd74f-bc62-4167-b046-527ddc9cc0b2</guid>
-            <pubDate>Thu, 21 Jul 2016 19:10:14 GMT</pubDate>
+            <pubDate>Thu, 21 Jul 2016 19:17:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
