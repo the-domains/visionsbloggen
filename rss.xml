@@ -4,21 +4,21 @@
         <description><![CDATA[Visionsbloggen]]></description>
         <link>https://thegrid.ai/visionsbloggen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 19:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 19:34:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/visionsbloggen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Om bloggen]]></title>
+            <description><![CDATA[<article><h1>Om bloggen</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/visionsbloggen/om-bloggen/index.html</link>
+            <guid isPermaLink="false">026fd74f-bc62-4167-b046-527ddc9cc0b2</guid>
+            <pubDate>Thu, 21 Jul 2016 19:34:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[This is the heading]]></title>
-            <description><![CDATA[<article><h1>This is the heading</h1><p>This is some text above the image.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fdce5f82385ac9b124eb4c03f95911dd/croprotate.jpg?cropheight=2250&cropwidth=4000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F159a036e-6e59-470f-be4a-e333d52baa24.jpg&x=0&y=0"></article>]]></description>
+            <description><![CDATA[<article><h1>This is the heading</h1><p>This is some text above the image.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c3af9e58290c6388fd7cc2a712275629f4391d5.jpg"></article>]]></description>
             <link>https://thegrid.ai/visionsbloggen/this-is-the-heading/index.html</link>
             <guid isPermaLink="false">b43da742-a2c8-4221-bd5a-5625d446a13e</guid>
             <pubDate>Thu, 21 Jul 2016 19:32:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Om bloggen</p>]]></description>
-            <link>https://thegrid.ai/visionsbloggen/om-bloggen/index.html</link>
-            <guid isPermaLink="false">026fd74f-bc62-4167-b046-527ddc9cc0b2</guid>
-            <pubDate>Thu, 21 Jul 2016 19:17:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
